@@ -91,24 +91,24 @@ It was built solo over a 7-day sprint as part of CodeAlpha's App Development int
     <td align="center"><b>Workout</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/AnshAI7/PulseIQ/Screenshots/Home.jpeg" width="260"/></td>
-    <td><img src="https://github.com/AnshAI7/PulseIQ/Screenshots/Workout.jpeg" width="260"/></td>
+    <td><img src="Screenshots/Home.jpeg" width="260"/></td>
+    <td><img src="Screenshots/Workout.jpeg" width="260"/></td>
   </tr>
   <tr>
     <td align="center"><b>Nutrition</b></td>
     <td align="center"><b>Analytics</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/AnshAI7/PulseIQ/Screenshots/Nutrition.jpeg" width="260"/></td>
-    <td><img src="https://github.com/AnshAI7/PulseIQ/Screenshots/Analytics.jpeg" width="260"/></td>
+    <td><img src="Screenshots/Nutrition.jpeg" width="260"/></td>
+    <td><img src="Screenshots/Analytics.jpeg" width="260"/></td>
   </tr>
   <tr>
     <td align="center"><b>Profile</b></td>
     <td align="center"><b>Onboarding</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/AnshAI7/PulseIQ/Screenshots/Profile.jpeg" width="260"/></td>
-    <td><img src="https://github.com/AnshAI7/PulseIQ/Screenshots/Onboarding.jpeg" width="260"/></td>
+    <td><img src="Screenshots/Profile.jpeg" width="260"/></td>
+    <td><img src="Screenshots/Onboarding.jpeg" width="260"/></td>
   </tr>
 </table>
 
