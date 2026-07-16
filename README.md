@@ -19,20 +19,21 @@
 
 <br/>
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white&style=for-the-badge)](YOUR_GITHUB_REPOSITORY_LINK)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/AnshAI7/PulseIQ)
 [![Download APK](https://img.shields.io/badge/Download-APK-3DDC84?logo=android&logoColor=white&style=for-the-badge)](https://drive.google.com/file/d/15J0XzULFHmFv44edtpjrQkOTGCemNi9Y/view?usp=drive_link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/anshmishra701)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/AnshAI7)
 
 </div>
 
----
+---git remote set-url origin https://github.com/AnshAI7/PulseIQ.git
+git push -u origin main
 
 ## 📥 Download
 
 | Resource | Link |
 |---|---|
-| 📦 Source Code | [YOUR_GITHUB_REPOSITORY_LINK](YOUR_GITHUB_REPOSITORY_LINK) |
+| 📦 Source Code | [https://github.com/AnshAI7/PulseIQ](https://github.com/AnshAI7/PulseIQ) |
 | 📱 APK (install directly on Android) | [Download APK](https://drive.google.com/file/d/15J0XzULFHmFv44edtpjrQkOTGCemNi9Y/view?usp=drive_link) |
 | 🎥 Demo Video | [Watch Demo](https://drive.google.com/file/d/1Loqz9flEBQ5kRI1TPpq9jUCg6h27ctVI/view?usp=sharing) |
 
@@ -90,24 +91,24 @@ It was built solo over a 7-day sprint as part of CodeAlpha's App Development int
     <td align="center"><b>Workout</b></td>
   </tr>
   <tr>
-    <td><img src="YOUR_GITHUB_REPOSITORY_LINK/Screenshots/Home.jpeg" width="260"/></td>
-    <td><img src="YOUR_GITHUB_REPOSITORY_LINK/Screenshots/Workout.jpeg" width="260"/></td>
+    <td><img src="https://github.com/AnshAI7/PulseIQ/Screenshots/Home.jpeg" width="260"/></td>
+    <td><img src="https://github.com/AnshAI7/PulseIQ/Screenshots/Workout.jpeg" width="260"/></td>
   </tr>
   <tr>
     <td align="center"><b>Nutrition</b></td>
     <td align="center"><b>Analytics</b></td>
   </tr>
   <tr>
-    <td><img src="YOUR_GITHUB_REPOSITORY_LINK/Screenshots/Nutrition.jpeg" width="260"/></td>
-    <td><img src="YOUR_GITHUB_REPOSITORY_LINK/Screenshots/Analytics.jpeg" width="260"/></td>
+    <td><img src="https://github.com/AnshAI7/PulseIQ/Screenshots/Nutrition.jpeg" width="260"/></td>
+    <td><img src="https://github.com/AnshAI7/PulseIQ/Screenshots/Analytics.jpeg" width="260"/></td>
   </tr>
   <tr>
     <td align="center"><b>Profile</b></td>
     <td align="center"><b>Onboarding</b></td>
   </tr>
   <tr>
-    <td><img src="YOUR_GITHUB_REPOSITORY_LINK/Screenshots/Profile.jpeg" width="260"/></td>
-    <td><img src="YOUR_GITHUB_REPOSITORY_LINK/Screenshots/Onboarding.jpeg" width="260"/></td>
+    <td><img src="https://github.com/AnshAI7/PulseIQ/Screenshots/Profile.jpeg" width="260"/></td>
+    <td><img src="https://github.com/AnshAI7/PulseIQ/Screenshots/Onboarding.jpeg" width="260"/></td>
   </tr>
 </table>
 
@@ -213,7 +214,7 @@ A few choices that were deliberate, not accidental:
 ### Setup
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/AnshAI7/PulseIQ
 cd pulse_iq
 
 # Install dependencies
