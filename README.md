@@ -91,24 +91,24 @@ It was built solo over a 7-day sprint as part of CodeAlpha's App Development int
     <td align="center"><b>Workout</b></td>
   </tr>
   <tr>
-    <td><img src="Screenshots/Home.jpeg" width="260"/></td>
-    <td><img src="Screenshots/Workout.jpeg" width="260"/></td>
+    <td><img src="screenshots/Home.jpeg" width="260"/></td>
+    <td><img src="screenshots/Workout.jpeg" width="260"/></td>
   </tr>
   <tr>
     <td align="center"><b>Nutrition</b></td>
     <td align="center"><b>Analytics</b></td>
   </tr>
   <tr>
-    <td><img src="Screenshots/Nutrition.jpeg" width="260"/></td>
-    <td><img src="Screenshots/Analytics.jpeg" width="260"/></td>
+    <td><img src="screenshots/Nutrition.jpeg" width="260"/></td>
+    <td><img src="screenshots/Analytics.jpeg" width="260"/></td>
   </tr>
   <tr>
     <td align="center"><b>Profile</b></td>
     <td align="center"><b>Onboarding</b></td>
   </tr>
   <tr>
-    <td><img src="Screenshots/Profile.jpeg" width="260"/></td>
-    <td><img src="Screenshots/Onboarding.jpeg" width="260"/></td>
+    <td><img src="screenshots/Profile.jpeg" width="260"/></td>
+    <td><img src="screenshots/Onboarding.jpeg" width="260"/></td>
   </tr>
 </table>
 
